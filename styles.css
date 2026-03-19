@@ -1,4 +1,33 @@
 * {
-    box-sizing: border-box;
+    box-sizing: border-box;  
 }
 
+
+h2 {
+    width: 200px;
+    padding: 50px;
+    height: 200px;
+    background-color: pink;
+    border: 5px solid red;
+    margin: 50px;
+}
+
+
+header {
+    color:rgb(190, 247, 245);
+}
+h1 {    
+    border: 30px groove rgb(190, 247, 245); 
+    text-align: center;
+}
+
+html {
+    background-color: blue;
+}
+
+img {
+    width: 200px;
+    height: 50px;
+    border-style:inherit;
+    background: 900px teal;
+}
